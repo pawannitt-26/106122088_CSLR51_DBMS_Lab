@@ -19,7 +19,7 @@ docs: Holds additional documentation, such as ER diagrams, database schemas, or 
 To use this repository effectively, follow these steps:
 - Clone the repository:
 ```bash
-git clone https://github.com/your-username/dbms-lab.git
+git clone https://github.com/pawannitt-26/DBMS_Lab.git
 ```
 - Set up environment: Ensure you have the necessary DBMS software (e.g., MySQL, PostgreSQL) installed and configured.
 - Explore lab folders: Start with the first lab folder and follow the instructions in the README file.
