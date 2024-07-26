@@ -1,4 +1,4 @@
-# DBMS_Lab
+# 106122088_CSLR51_DBMS_Lab
 
 ## Introduction
 This repository contains the code, data, and documentation for the DBMS lab course. 
@@ -19,7 +19,7 @@ docs: Holds additional documentation, such as ER diagrams, database schemas, or 
 To use this repository effectively, follow these steps:
 - Clone the repository:
 ```bash
-git clone https://github.com/pawannitt-26/DBMS_Lab.git
+git clone https://github.com/pawannitt-26/106122088_CSLR51_DBMS_Lab.git
 ```
 - Set up environment: Ensure you have the necessary DBMS software (e.g., MySQL, PostgreSQL) installed and configured.
 - Explore lab folders: Start with the first lab folder and follow the instructions in the README file.
